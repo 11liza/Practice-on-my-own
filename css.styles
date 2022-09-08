@@ -1,0 +1,10 @@
+ body {
+            background-color: aquamarine;
+            ">
+
+        }
+
+        hr {
+            background-color: rgb(233, 150, 48);
+            border-style: groove
+        }
