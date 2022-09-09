@@ -1,8 +1,6 @@
-body {
-    background-color: burlywood;
+#outer-box {
+    background-color: blanchedalmond;
+    height: 500px;
+    width: 400px;
 
-}
-
-div {
-    container
 }
